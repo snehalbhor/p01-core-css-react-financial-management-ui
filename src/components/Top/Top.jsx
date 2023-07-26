@@ -70,7 +70,7 @@ const Top = () => {
                             initial={{x:"7rem",opacity:0}}
                             animate={{x:0,opacity:1}}
                             transition={{duration:2,type:"spring"}} className="image-container">
-                            <img src="FM.jpg" alt="logo" />
+                            <img src="FM.jpg" alt="logo2" />
                         </motion.div>
 
 
