@@ -56,7 +56,7 @@ const Top = () => {
                             </div>
                             <div className="flexColCenter stat">
                                 <span>
-                                    <CountUp start={80} end={99} duration={4} />
+                                    <CountUp start={80} end={99} duration={14} />
 
                                     <span>+</span></span>
                                 <span className='second-text'>Awards</span>
@@ -70,7 +70,7 @@ const Top = () => {
                             initial={{x:"7rem",opacity:0}}
                             animate={{x:0,opacity:1}}
                             transition={{duration:2,type:"spring"}} className="image-container">
-                            <img src="FM.jpg" alt="logo2" />
+                            <img src="FM.jpg" alt="logo2333" />
                         </motion.div>
 
 
